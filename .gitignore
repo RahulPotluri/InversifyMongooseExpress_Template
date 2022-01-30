@@ -1,0 +1,14 @@
+# Ignore Node module
+node_modules
+
+# Ignoring output directory
+dist
+
+# Ignoring logs
+logs
+
+# Ignoring start shell script
+start_dev.sh
+
+# Ignoring packge-lock.json
+package-lock.json
